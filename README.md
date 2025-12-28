@@ -17,4 +17,3 @@ This repository implements a probabilistic clustering framework using **Gaussian
 ## Structure
 * `Customer_Segmentation_GMM_Analysis.ipynb`: Full modeling pipeline.
 * `Mall_Customers.csv`: Dataset used for the case study.
-* `requirements.txt`: Environment dependencies.
